@@ -1,0 +1,37 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #ebebe8;
+}
+
+.header {
+  font-size: 50px;
+  text-align: center;
+  padding: 30px;
+  width: auto;
+  background-color: #6a6932;
+  color: #e6e5ca;
+}
+
+input {
+  height: 45px;
+  font-size: 20px;
+  padding-left: 10px;
+  margin: 30px 15px 0 15px;
+  box-shadow: 1px 1px 5px #6a6932;
+  border: none;
+}
+
+.equal {
+  font-size: 20px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+::placeholder {
+  opacity: 0.3;
+}
+
+.currencyInput {
+  text-align: center;
+  padding-top: 50px;
+}
